@@ -7,7 +7,7 @@ Web App Link: [WNBA Shooting Scout](https://wnba-shooting-scout.onrender.com/)
 ## 3 Key Components
 1. Player/Team Card
     * Player name and headshot/Team name and logo
-    * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20card.png" alt="Caitlin Clark Player Card" width="100" height="auto">
+       * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20card.png" alt="Caitlin Clark Player Card" width="250" height="auto"><img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20card.png" alt="Indiana Fever Team Card" width="250" height="auto">
     * Season shooting stats
     * Game-by-game scoring bar chart
 2. Player/Team Season Shot Chart (hex)
