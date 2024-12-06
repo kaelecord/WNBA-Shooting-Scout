@@ -17,7 +17,6 @@ import copy
 import io
 import base64
 from datetime import date
-from wnba_functions import *
 
 shots_url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQq2hScV4DjC1ixL3thUGt_tomrMEuyBmIF9ltYbx-BTkPuQsx0ZpDiGISCmMNEfDfMmZz7HidA0Lz8/pub?output=csv'
 wnba_shots = pd.read_csv(shots_url)
