@@ -7,23 +7,29 @@ Web App Link: [WNBA Shooting Scout](https://wnba-shooting-scout.onrender.com/)
 ## 3 Key Components
 1. Player/Team Card
     * Player name and headshot/Team name and logo
-       * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20card.png" alt="Caitlin Clark Player Card" width="250" height="auto"><img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20card.png" alt="Indiana Fever Team Card" width="250" height="auto">
     * Season shooting stats
     * Game-by-game scoring bar chart
+    * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20card.png" alt="Caitlin Clark Player Card" width="250" height="auto"><img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20card.png" alt="Indiana Fever Team Card" width="250" height="auto">
 2. Player/Team Season Shot Chart (hex)
     * Static hexbin shot chart
     * Size denotes shot count
     * Color denotes shooting % compared to WNBA League Average
         * Dark Red (+5+%), Red (+2.5-5%), Light Red (+0-2.5%), Light Blue (-0-2.5%), Blue (-2.5-5%), and Dark Blue (-5+%)
+    * Caitlin Clark:<img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20hexbin.png" alt="Caitlin Clark Season Hex Shot Chart" width="250" height="auto">
+    * Indiana Fever: <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20card.png" alt="Indiana Fever Season Hex Shot Chart" width="250" height="auto">
 3. 4 Filterable Shot Charts
     * Available shot charts:
         * Make/Miss
+           * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20shot%20chart.png" alt="Caitlin Clark Player Card" width="250" height="auto"><img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20shot%20chart.png" alt="Indiana Fever Team Card" width="250" height="auto">
         * Shot Zone
+           * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20shot%20zone.png" alt="Caitlin Clark Player Card" width="250" height="auto"><img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20shot%20zone.png" alt="Indiana Fever Team Card" width="250" height="auto">
         * Heat Map
+           * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20heat%20map.png" alt="Caitlin Clark Player Card" width="250" height="auto"><img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20heat%20map.png" alt="Indiana Fever Team Card" width="250" height="auto">
         * Stream Chart
             * FG% by shot distance
                 * Line represents FG% at shot distance
                 * Band represents shot count at shot distance
+        * <img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/player%20stream.png" alt="Caitlin Clark Player Card" width="250" height="auto"><img src="https://github.com/kaelecord/WNBA-Shooting-Scout/blob/main/examples%20images/team%20steam.png" alt="Indiana Fever Team Card" width="250" height="auto">
     * Available filters:
         * Game date range
         * Specific game
